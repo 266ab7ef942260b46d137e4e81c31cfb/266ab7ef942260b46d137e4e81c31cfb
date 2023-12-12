@@ -10,6 +10,7 @@
   <a href="https://github.com/gumbobr0t"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
   <a href="https://github.com/gumbobr0t"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   <a href="https://github.com/gumbobr0t"><img src="https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black"></a>
+  <a href="https://github.com/gumbobr0t"><img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black"></a>
   <a href="https://github.com/gumbobr0t"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
   <a href="https://github.com/gumbobr0t"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </p>
