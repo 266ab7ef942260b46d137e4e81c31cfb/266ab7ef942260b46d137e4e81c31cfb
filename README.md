@@ -16,5 +16,5 @@
   <a href="https://github.com/gumbobr0t"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </p>
 <p align="center">
-  <a href="https://discord.com/users/1158477924941451357"><img src="https://lanyard.cnrad.dev/api/1158477924941451357"></a>
+  <a href="https://discord.com/users/1186383773768622124"><img src="https://lanyard.cnrad.dev/api/1186383773768622124"></a>
 </p>
