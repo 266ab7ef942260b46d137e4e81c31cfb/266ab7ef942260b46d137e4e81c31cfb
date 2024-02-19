@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://cdn.discordapp.com/attachments/1196107446880567397/1196132902245765150/9ff96cea64d8fc2e65e42b33767704a839a59dc2_hq.gif?ex=65b68492&is=65a40f92&hm=4fa76fb4b6352d20fbe3e9bc54251c4abbcef42e9957113c68109ea597dad261&" height=300 length=300>
+  <img src="https://cdn.discordapp.com/attachments/1203392147030671502/1209250780067012649/giphy-3976642673.gif?ex=65e63d8c&is=65d3c88c&hm=e144cfbfefbf9bc57352de37cf9a1a85d8c09e00da89880270e1dd60e99b088c&" height=300 length=300>
 </p>
 <p align="center">
   <a href="https://github.com/gumbobr0t"><img src="https://img.shields.io/github/followers/gumbobr0t?style=for-the-badge"></a>
