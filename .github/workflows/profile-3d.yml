@@ -22,3 +22,7 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+      - name: Debug Environment Variables
+        run: |
+          echo "GH_TOKEN: $GH_TOKEN"
+          echo "GITHUB_TOKEN: $GITHUB_TOKEN"
