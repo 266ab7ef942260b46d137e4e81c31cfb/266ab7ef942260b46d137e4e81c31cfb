@@ -11,10 +11,6 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - name: Debug Environment Variables
-        run: |
-          echo "GH_TOKEN: $GH_TOKEN"
-          echo "GITHUB_TOKEN: $GITHUB_TOKEN"
       - uses: gumbobr0t/github-profile-3d-contrib@0.7
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
